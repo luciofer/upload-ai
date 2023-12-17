@@ -7,11 +7,12 @@ Project in development.
 
 - React and Next JS
 - TypeScript
-- Tailwind
-- Shadcn-ui
-- ChatGPT / OpenAI
+- Tailwind and Shadcn-ui
+- ChatGPT - OpenAI
 - Node JS and fastfy
+- PostgreSQL
 - Prisma
+- Docker
 - Vercel
 - Vite
 - Figma

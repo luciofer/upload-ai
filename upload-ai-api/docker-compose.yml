@@ -1,0 +1,11 @@
+services:
+  postgres:
+    container_name: upload_ai_postgres
+    image: postgres
+    environment:
+      POSTGRES_USER: admin
+      POSTGRES_PASSWORD: admin
+      POSTGRES_DB: upload_ai
+
+    ports:
+      - "5432:5432"
